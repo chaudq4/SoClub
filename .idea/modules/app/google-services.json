@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977872903847",
+    "firebase_url": "https://soclub-dc081.firebaseio.com",
+    "project_id": "soclub-dc081",
+    "storage_bucket": "soclub-dc081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977872903847:android:ffd155e83f660a369c4582",
+        "android_client_info": {
+          "package_name": "com.chauduong.soclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977872903847-7vi7q3up1josbpks2v5asrsg3nvve0uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chauduong.soclub",
+            "certificate_hash": "f61f88d28c789df64592e525ad4f86c7b68da954"
+          }
+        },
+        {
+          "client_id": "977872903847-0c44ltp0doim23n4leasmd0h6f56o0t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByip0PunXQRneBOsWFecsTLnoDksV3tn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977872903847-0c44ltp0doim23n4leasmd0h6f56o0t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
